@@ -1,0 +1,7 @@
+[selftest] app launched
+[selftest] window inited
+[selftest] present frames=(307.0, 1740.0, 1320.0, 840.0) tabs=1
+[selftest] after3s visible=true fs=true num=136124 frame=(-537.0, 1120.0, 3008.0, 1692.0) tabCount=1 barH=40.0 sidebarStack=9 sidebarFrame=(0.0, 0.0, 58.0, 1652.0) settings=frame=(11.0, 12.0, 36.0, 36.0) hidden=false alpha=1.0 enabled=true super=Optional<NSView> sidebarFlipped=false subviews=10 shortcuts=[#0:36.0x36.0@1600.0 #1:36.0x36.0@1554.0 #2:36.0x36.0@1508.0 #3:36.0x36.0@1462.0 #4:36.0x36.0@1416.0 #5:36.0x36.0@1370.0 #6:36.0x36.0@1324.0 #7:36.0x36.0@1278.0 #8:36.0x36.0@1232.0]
+[selftest] dumped build-verify/ui-sidebar.png 116x3304
+[selftest] dumped build-verify/ui-window.png 6016x3384
+[selftest] dumped build-verify/ui-config.png 5900x3304

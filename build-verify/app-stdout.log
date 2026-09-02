@@ -1,0 +1,10 @@
+[selftest] app launched
+2026-08-31 20:02:36.069 DSHDesktop[64703:54875811] could not create directory "/Users/eleven/Library/Caches/local.dsh.desktop/WebKit/ServiceWorkers" for future sandbox extension, error Error Domain=NSCocoaErrorDomain Code=513 "You don’t have permission to save the file “ServiceWorkers” in the folder “WebKit”." UserInfo={NSFilePath=/Users/eleven/Library/Caches/local.dsh.desktop/WebKit/ServiceWorkers, NSURL=file:///Users/eleven/Library/Caches/local.dsh.desktop/WebKit/ServiceWorkers, NSUnderlyingError=0x6000017a9a70 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+[selftest] window inited
+[selftest] present frames=(236.0, 212.0, 1320.0, 840.0) tabs=1
+[selftest] after3s visible=true fs=true num=130992 frame=(0.0, 0.0, 1792.0, 1120.0) tabCount=1 barH=40.0 sidebarStack=9
+[selftest] dumped build-verify/ui-sidebar.png 116x2160
+[selftest] dumped build-verify/ui-window.png 3584x2240
+[selftest] dumped build-verify/ui-settings.png 1080x1240
+2026-08-31 20:03:21.927 DSHDesktop[64703:54875752] error messaging the mach port for IMKCFRunLoopWakeUpReliable
+2026-08-31 20:25:40.917 DSHDesktop[64703:54875752] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
